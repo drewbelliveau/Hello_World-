@@ -1,4 +1,4 @@
-## Table of contents
+### Table of contents
 
 - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
@@ -7,15 +7,15 @@
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 - [VERSIONING](#versioning)
 
-## Project Title
+### Project Title
 
-#Hello_World
+Hello_World
 
-## Description
+### Description
 
 An introduction to GitHub for BAIS 3050
 
-## How to Run Program 
+##* How to Run Program 
 
 To run the program a suitable computer is needed and vist github.com
 
