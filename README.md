@@ -9,7 +9,7 @@
 
 ## Project Title
 
-Hello_World
+#Hello_World
 
 ## Description
 
@@ -17,7 +17,7 @@ An introduction to GitHub for BAIS 3050
 
 ## How to Run Program 
 
-Explain here how you would run the program and what files need to be available. 
+To run the program a suitable computer is needed and vist github.com
 
 ## Files Used 
 
@@ -37,4 +37,4 @@ No additional documentation at this time.  Here is some **BOLD** text
 
 ## Versioning
 
-Discuss any versioning used especially if you are making major changes throughout the process of your code.
+Version 1
