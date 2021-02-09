@@ -9,11 +9,11 @@
 
 ## Project Title
 
-*Hello World Sample* 
+**Hello_World ** 
 
 ## Description
 
-Practice using GitHub by creating a sample repository
+An introduction to GitHub for BAIS 3050
 
 ## How to Run Program 
 
